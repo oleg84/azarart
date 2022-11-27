@@ -6,7 +6,7 @@
 
 body {
     padding-top: 2vw;
-    background-color:sandybrown;
+    background-color:rgb(111, 66, 26);
 }
 
 h1 {
@@ -16,8 +16,18 @@ h1 {
 }
 
 p {
-    font-size: 3vw;
+    font-size: 4vw;
     margin-top: 2vw;
     margin-left: 4vw;
     margin-right: 4vw;
+}
+
+.logoimage {
+    padding-left: 30vw;
+    width: 40vw;
+    padding-right: 30vw;
+}
+
+footer {
+    margin-top: 100vh;
 }
